@@ -4,9 +4,9 @@ Face detection is the basic thing you can do with the OpenCV. But using this bas
 
 Requirements:
 
-Haar Cascade XML file
-Sunglass Transparent overlay
-Cigar transparent Overlay
+1.Haar Cascade XML file
+2.Sunglass Transparent overlay
+3.Cigar transparent Overlay
 
 
 
