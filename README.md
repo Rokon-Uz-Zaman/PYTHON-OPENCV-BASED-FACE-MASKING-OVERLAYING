@@ -1,0 +1,2 @@
+# PYTHON-OPENCV-BASED-FACE-MASKING-OVERLAYING
+Face detection is the basic thing you can do with the OpenCV. But using this basic functionality you can overlay a mask on your face. You have to place the transparent mask after detecting the face to the location where it fits well. In this case, I put a sunglass over the eye. And after that, I locate the mouth position and overlay a cigar to the mouth. Then it looks really good. You can easily do the same by following the python code given below. It also works for videos as well.
